@@ -8,7 +8,7 @@ const objectName ={
 
 const student ={
      name: 'Raihan',
-     class: 'MBA',
+     class: 'MBA', 
      subject: 'English',
  }
  
